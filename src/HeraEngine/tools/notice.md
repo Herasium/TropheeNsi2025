@@ -1,0 +1,1 @@
+The files in this folder are only used in the dev process, and are not called in the game itself, just for us to have something to help us build the game.

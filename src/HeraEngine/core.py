@@ -19,10 +19,7 @@ class Core():
     def __init__(self,start,update,asset_path):
 
         self.ascii_art = """
-Powered by
-╦ ╦┌─┐┬─┐┌─┐╔═╗┌┐┌┌─┐┬┌┐┌┌─┐
-╠═╣├┤ ├┬┘├─┤║╣ ││││ ┬││││├┤ 
-╩ ╩└─┘┴└─┴ ┴╚═╝┘└┘└─┘┴┘└┘└─┘"""
+Powered by HeraEngine"""
 
         self.os = os.name
         self.is_windows = self.os == "nt"

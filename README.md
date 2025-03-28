@@ -34,7 +34,7 @@ Clone le projet
 Ouvre le dossier du projet
 
 ```bash
-  cd NsiArt
+  cd TropheeNsi2025/src
 ```
 
 Installe les dependances (numpy)

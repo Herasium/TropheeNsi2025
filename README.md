@@ -2,7 +2,7 @@
 ![Once Upon a Dream](https://raw.githubusercontent.com/Herasium/NsiArt/149692cafa4182eb91b71d4142ea8e25d0effae4/Assets/Textures/ReadMe/title.png)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HeraEngine](https://img.shields.io/badge/powered%20by%20HeraEngine-9bf6ff?style=for-the-badge)
-![LineCount](https://img.shields.io/endpoint?style=for-the-badge&labelColor=f15bb5&color=00f5d4&url=https://ghloc.vercel.app/api/herasium/nsiart/badge?filter=.py$)
+![LineCount](https://img.shields.io/endpoint?style=for-the-badge&labelColor=f15bb5&color=00f5d4&url=https://ghloc.vercel.app/api/herasium/tropheensi2025/badge?filter=.py$)
 ![wakatime](https://wakatime.com/badge/user/e0c80e41-e8e7-4fb2-a17d-661d8a93f578/project/8cd15592-4267-4111-aa07-cdb3c5b7e24e.svg?style=for-the-badge)
 
 ## Resume
